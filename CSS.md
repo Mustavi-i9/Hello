@@ -44,3 +44,50 @@ background: linear-gradient(to right,#FFD4C7,#FF014B);
 </style>
 ```
 </details>
+
+
+
+
+
+
+
+
+<details>
+	<summary>universal (ub)</summary>
+
+ ``` html
+<style>
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	body {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		font-family: sans-serif;
+		margin: 2rem 0;
+	}
+</style>
+```
+</details>
+
+
+
+
+
+<details>
+	<summary>FlexBox (df)</summary>
+
+ ``` css
+display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+```
+</details>
+
+
+
+
