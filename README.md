@@ -9,6 +9,21 @@ int main() {
 }
 
 ```
+<details>
+<summary>Counter Statement</summary>
+ 
+``` c
+
+    for (int i = 0; i <= length; i++) {
+        
+    }
+
+    while () {
+        
+    }
+
+```
+</details>
 
 <details>
 
