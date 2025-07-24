@@ -2,8 +2,8 @@
     @font-face {
         font-family: 'Font';
         src: url('Link');
-    }	/*   font   */
+    }                      	  /*   font   */
 
-    src: url('Link');  /*   s   */
+    src: url('Link');         /*   s     */
     background: url('Link');  /*   url   */
 ```
