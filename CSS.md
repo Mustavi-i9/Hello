@@ -1,3 +1,4 @@
+``` CSS
     @font-face {
         font-family: 'Font';
         src: url('Link');
@@ -5,3 +6,4 @@
 
     src: url('Link');  /*   s   */
     background: url('Link');  /*   url   */
+```
