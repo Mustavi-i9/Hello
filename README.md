@@ -11,6 +11,58 @@ int main() {
 ```
 
 <details>
+
+<summary>Conditional Statement</summary>
+
+``` c
+
+    if (condition = true) {
+        // code block. do something if True or will  execute/ evaluate if true
+    } else if (condition) {
+        
+    } else {
+        
+    }
+    
+    
+    
+    if (condition == true) {
+        
+    } else {
+        
+    }
+    
+    
+    
+    if (condition = true) {
+        
+    }
+    
+    condition ? true : false ;
+    
+	switch (condition) {
+		case 1:
+			
+			break;
+		case 2:
+			
+			break;
+		case 3:
+			
+			break;
+		default:
+			
+			break;
+	}
+  
+
+```
+ 
+</details>
+
+
+
+<details>
 <summary>Shorthand</summary>
 	
 ``` C
